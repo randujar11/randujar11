@@ -1,6 +1,6 @@
 
 
-Hi I'm Randy Andujar! I'm a **QA Engineer** based in the Dominican Republic. I'm love about everything related with quality assurance and software testing. 
+ Hi I'm Randy Andujar! I'm a **Senior QA Engineer** based in the Dominican Republic. I'm love about everything related with quality assurance and software testing. 
 <br>
 
 ## Contact:
@@ -39,6 +39,15 @@ Hi I'm Randy Andujar! I'm a **QA Engineer** based in the Dominican Republic. I'm
 ![Jira](https://img.shields.io/badge/Jira-D1D3CC?style=for-the-badge&logo=Jira&logoColor=white&labelColor=101010)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-2898E8?style=for-the-badge&logo=Azure-DevOps&logoColor=white&labelColor=101010)
 
+<a href="https://github.com/randujar11/github-readme-stats">
+<img width="300" height="auto" align="left" alt="Randy's top langs" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=randujar11&show_icons=true&theme=algolia&count_private=true" /></a> 
+
+<a href="https://github.com/randujar11?tab=repositories">
+<img width="480" height="auto" alt="Randy's github stats" 
+src="https://github-readme-stats.vercel.app/api?username=randujar11&show_icons=true&theme=algolia&count_private=true" /></a>
+
+  
 
 <!--
 **randujar11/randujar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
