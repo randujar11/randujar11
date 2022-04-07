@@ -1,6 +1,6 @@
 
 
- Hi I'm Randy Andujar! I'm a **Senior QA Engineer** based in the Dominican Republic. I'm love about everything related with quality assurance and software testing. 
+ Hi I'm Randy Andujar! I'm a **Senior Software Testing** based in the Dominican Republic, I have 6 years of experience in the area of quality control. I'm love about everything related with quality assurance and software testing. 
 <br>
 
 ## Contact:
